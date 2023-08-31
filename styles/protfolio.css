@@ -1,0 +1,64 @@
+*{
+    margin: 0;
+    font-family: 'Open Sans' sans-serif;
+}
+.header{
+    background: #fff8f3;
+    background-image: url(../image/DSC_6843.jpg);
+}
+.text-parimary{
+    color: #fd6e0a;
+}
+.btn-primary{
+    color: #FFFF;
+    font-size: 20px;
+    font-weight: 700;
+    border: 0;
+    border-radius: 5px;
+    padding: 18px 35px;
+    height: 64px;
+    border-radius: 20px;
+    background-color: #fd6e0a;
+    
+}
+.btn-primary:hover {
+    background-color: rgba(242, 12, 12, 0.733);
+  }
+nav{
+    display: flex;
+    justify-content: space-between;
+    margin: 50px 200px;
+    
+}
+nav ul{
+    display: flex;
+    align-items: center;
+
+}
+nav li{
+    list-style: none;
+    margin-left: 50px;
+}
+.nav-titel{
+    font-weight: 400;
+    font: size 45px; ;
+}
+.banner{
+    display: flex;
+    align-items: center;
+    margin: 0 200px;
+    
+}
+.banner-titel{
+    font-weight: 700;
+    font-size: 85px;
+}
+.banner-sub-titel{
+    font-weight: 600px;
+    font-size: 45px; ;
+}
+.banner-description{
+    color: #757575;
+    font-size: 18px;
+    margin-bottom: 15px;
+}
