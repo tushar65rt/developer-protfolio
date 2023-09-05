@@ -130,9 +130,25 @@ main{
     color: #474747;
 
 }
+.resume .section-title{
+    text-align: center;
+    font-size: 25px;
+    margin-bottom: 50px;
+}
+.resume-content{
+    display: flex;
+}
 .resume .title{
-
+    font-weight: 700;
+    font-size: 25px;
+    color: #474747;
+    display: flex;
 }
 .resume .sub-title{
-
+    color: #757575;
+    font-weight: 600;
+    font-size: 20px;
+}
+.resume .discription{
+    color: #757575;
 }
